@@ -1,0 +1,15 @@
+.btnProducto {
+    background-color: black;
+    color: white;
+    font-size: 1.1rem;
+    width: 7rem;
+    height: 3rem;
+    border-radius: 4px;
+}
+.btnProducto:hover{
+    background-color: grey;
+}
+.contador {
+    font-size: 24px;
+    font-weight: 500;
+}
